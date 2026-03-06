@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Koll Jiu-Jitsu | 神戸 板宿 ブラジリアン柔術</title>
+
+<meta name="description" content="神戸市板宿駅徒歩1分のブラジリアン柔術道場Koll Jiu-Jitsu。初心者・キッズ・大人歓迎。体験入会受付中。">
+
+<style>
+
+body{
+margin:0;
+font-family:Arial, Helvetica, sans-serif;
+background:#0f0f0f;
+color:white;
+line-height:1.6;
+}
+
+header{
+background:black;
+padding:25px;
+text-align:center;
+border-bottom:2px solid #caa64b;
+}
+
+header h1{
+margin:0;
+letter-spacing:2px;
+}
+
+nav{
+margin-top:15px;
+}
+
+nav a{
+color:white;
+margin:0 12px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+height:420px;
+background:url("dojo.jpg") center/cover;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+}
+
+.hero h2{
+background:rgba(0,0,0,0.6);
+padding:25px 40px;
+border:2px solid #caa64b;
+font-size:34px;
+}
+
+section{
+max-width:1000px;
+margin:auto;
+padding:60px 20px;
+}
+
+h2{
+border-bottom:2px solid #caa64b;
+display:inline-block;
+padding-bottom:10px;
+margin-bottom:25px;
+}
+
+.class-list li{
+margin:10px 0;
+font-size:18px;
+}
+
+.price-box{
+background:#1a1a1a;
+padding:30px;
+border-radius:10px;
+}
+
+.price-box p{
+font-size:18px;
+margin:10px 0;
+}
+
+.schedule img{
+width:100%;
+border-radius:10px;
+}
+
+.instructor{
+display:flex;
+gap:30px;
+flex-wrap:wrap;
+align-items:center;
+}
+
+.instructor img{
+width:200px;
+border-radius:10px;
+}
+
+.btn{
+background:#caa64b;
+color:black;
+padding:12px 25px;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+display:inline-block;
+margin:10px 5px;
+}
+
+.instagram{
+text-align:center;
+}
+
+.access{
+text-align:center;
+font-size:18px;
+}
+
+footer{
+background:black;
+text-align:center;
+padding:40px;
+margin-top:40px;
+border-top:2px solid #caa64b;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Koll Jiu-Jitsu</h1>
+
+<nav>
+
+<a href="#about">道場紹介</a> <a href="#class">クラス</a> <a href="#price">料金</a> <a href="#schedule">スケジュール</a> <a href="#instructor">インストラクター</a> <a href="#access">アクセス</a>
+
+</nav>
+
+</header>
+
+<div class="hero">
+
+<h2>
+神戸・板宿の<br>
+ブラジリアン柔術アカデミー
+</h2>
+
+</div>
+
+<section id="about">
+
+<h2>道場紹介</h2>
+
+<p>
+
+Koll Jiu-Jitsuは神戸市板宿駅徒歩1分のブラジリアン柔術道場です。
+初心者・キッズ・大人まで誰でも安心して柔術を始められます。
+
+健康・護身・競技まで目的に合わせて楽しく練習できます。
+
+</p>
+
+</section>
+
+<section id="class">
+
+<h2>クラス紹介</h2>
+
+<ul class="class-list">
+
+<li>キッズ柔術クラス</li>
+
+<li>中学生・高校生クラス</li>
+
+<li>レッスンクラス</li>
+
+<li>コンディショニングクラス</li>
+
+<li>オープンマット</li>
+
+</ul>
+
+</section>
+
+<section id="price">
+
+<h2>料金</h2>
+
+<div class="price-box">
+
+<p>入会金 ¥10,000</p>
+
+<p>大人 ¥12,000</p>
+
+<p>中学生・高校生 ¥8,000</p>
+
+<p>小学生 ¥7,000</p>
+
+<p>出稽古 ¥2,000</p>
+
+<p>家族割引：2人目以降 ¥2,000引き</p>
+
+</div>
+
+</section>
+
+<section id="schedule" class="schedule">
+
+<h2>スケジュール</h2>
+
+<img src="schedule.jpg">
+
+<p style="text-align:center;margin-top:10px;">
+※スケジュールは変更する場合があります
+</p>
+
+</section>
+
+<section id="instructor">
+
+<h2>インストラクター</h2>
+
+<div class="instructor">
+
+<img src="michinaka.jpg">
+
+<div>
+
+<h3>道中 健人</h3>
+
+<p>
+
+Koll Jiu-Jitsu 代表
+ブラジリアン柔術 黒帯
+
+初心者から競技志向の選手まで丁寧に指導しています。
+柔術は誰でも強くなれるスポーツです。
+
+一緒に楽しく練習しましょう。
+
+</p>
+
+<a class="btn" href="https://instagram.com/michinaka_bjj" target="_blank">
+Instagram @michinaka_bjj
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="instagram">
+
+<h2>SNS</h2>
+
+<a class="btn" href="https://instagram.com/koll_jiujitsu" target="_blank">
+
+@koll_jiujitsu
+
+</a>
+
+</section>
+
+<section id="access" class="access">
+
+<h2>アクセス</h2>
+
+<p>
+
+神戸市 板宿駅 徒歩1分
+
+</p>
+
+<p>
+
+駅前で通いやすい立地です。
+
+</p>
+
+</section>
+
+<footer>
+
+<p>Koll Jiu-Jitsu</p>
+
+<p>© Koll Jiu-Jitsu</p>
+
+</footer>
+
+</body>
+</html>
